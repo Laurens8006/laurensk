@@ -60,3 +60,19 @@ h1 {
     align-items: center;
     text-align: center;
 }
+
+a {
+    color:white;
+}
+
+.soicals li{
+    display: inline;
+    padding-right: 6px;
+    padding-left: 20px;
+    color: white;
+}
+
+.socials #icon {
+    background-repeat: no-repeat;
+    background-size: contain;
+}
